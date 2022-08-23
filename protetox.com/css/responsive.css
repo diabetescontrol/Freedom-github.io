@@ -1,0 +1,431 @@
+/* ---- Desktop only styles --- */
+
+@media (min-width: 1068px) {
+
+	
+}
+
+
+/* ---- Mobile only styles -- */
+
+@media (max-width: 1068px) {
+
+	.video-big-red {
+	    display: block;
+	    color: #e50909;
+	    font-weight: 800;
+	    width: 100%;
+	    text-align: center;
+	    margin: 30px auto 0px;
+	    font-size: 35px;
+	}
+
+	.aff-link{
+	    display: block;
+	    width: 100px;
+	    text-align: center;
+	    margin: -50px auto 0px;
+	    font-weight: 400;
+	}
+}
+
+@media (max-width: 769px) {
+
+	.no-top-margin{
+	    margin: 20px auto 30px !important;
+	}
+
+	.mob-margin50{
+		margin-top:50px !important;
+	}
+
+	.proven-logo{
+		width: 100%;
+	}
+
+	.row90 {
+	    max-width: 100%;
+	    margin: auto;
+	}
+
+	.margin-t50{
+		margin-top: 0px;
+	}
+
+	.downsell-red-h{
+		text-align: center;
+	    width: 100%;
+	    display: block;
+	    font-size: 28px;
+	}
+
+	.org-thumb {
+	    display: block !important;
+	    text-align: center;
+	    margin:20px auto 10px;
+	}
+
+	.thumb-head{
+		text-align: center;
+	    max-width: 100%;
+	    margin: 10px auto 10px;
+	    display: block;
+	}
+
+	.thumb-txt{
+		text-align: center;
+	    margin: 0;
+	    padding: 0;
+
+	}
+
+	.home-form-submit, .home-form-txt{
+		width:100%;
+	}
+
+	.prov-p{
+		width: 100%;
+	    text-align: center;
+	    font-size: 16px;
+	}
+
+	.padding-60{
+		padding-left: 10px;
+    	padding-right: 10px;
+	}
+
+	.prov-h2{
+		width: 100%;
+    	text-align: center;
+	}
+
+	.upsell-upgrade-btn{
+		padding: 0px;
+	}
+
+	.upsell-upgrade-btn-txt{
+		font-size: 14px;
+    	text-align: center;
+	}
+
+	.upgrade-lrg-logo{
+		width: 100%;
+    	height: auto;
+	}
+
+	.upsell-h1 {
+	    font-size: 28px;
+	    font-weight: 700;
+	    display: block;
+	    text-align: center;
+	    margin: 0px auto 40px;
+	    max-width: 100%;
+	    color: #fa1d1d;
+	}
+
+	.upsell-con-msg, .upsell-h2 {
+	    font-size: 24px;
+	    font-weight: 700;
+	    text-align: center;
+	    display: block;
+	    padding-top: 25px;
+	    padding-bottom: 25px;
+	}
+
+	.upsell-step-img {
+	    width: 100%;
+	    margin: 10px auto;
+	}
+
+	.upsell-red-dash {
+	    border: 5px dashed #ff0000;
+	    padding: 15px;
+	}
+
+	.upsell-green-box {
+	    border: 3px solid #288e03;
+	    padding: 20px;
+	}
+
+	.upsell-h3 {
+	    font-size: 26px;
+	    font-weight: 700;
+	    display: block;
+	    color: #fa1d1d;
+	    width: 100%;
+	    text-align: center;
+	    padding: 20px 0px;
+	}
+
+	.upsell-btm-green {
+	    display: block;
+	    width: 100%;
+	    text-align: center;
+	    font-size: 30px;
+	    font-weight: 700;
+	    color: #48810c;
+	    margin: 0px auto 30px;
+	}
+
+	.downsell-blue-h {
+	    color: #3173dc;
+	    display: block;
+	    width: 95%;
+	    margin: 30px auto;
+	    text-align: center;
+	    font-size: 28px;
+	    font-weight: 700;
+	}
+
+	.video-big-red {
+	    display: block;
+	    color: #e50909;
+	    font-weight: 800;
+	    width: 100%;
+	    text-align: center;
+	    margin: 30px auto;
+	    font-size: 35px;
+	}
+
+	.video-price-red-head, .video-price-black-head{
+		margin-top:30px;
+	}
+
+	.video-testi-head {
+	    font-size: 22px;
+	    color: #e50909;
+	    font-weight: 700;
+	    margin: 0px 20px 0px 20px;
+	    display: block;
+	    text-align: center;
+	}
+
+	.video-testi-txt {
+	    font-size: 14px;
+	    color: #000;
+	    font-weight: 400;
+	    margin: 30px 20px 30px 20px;
+	    display: block;
+	    text-align: center;
+	}
+
+	.exclamantion-icon {
+	    color: #999;
+	    font-size: 20px;
+	    display: inline-block;
+	    margin-left: 18px;
+	    margin-top: 15px;
+	}
+
+	.exclamantion-head {
+	    display: block;
+	    padding: 0px 20px 30px 30px;
+	    color: #009999;
+	    font-size: 18px;
+	    font-weight: 700;
+	    margin-top: -30px;
+	}
+
+	.exclamantion-txt {
+	    display: inline-block;
+	    padding-left: 15px;
+	    width: 90%;
+	}
+
+	.exclamanation-p {
+	    padding: 0px 20px 0px 20px;
+	    font-size: 14px;
+	    text-align: left !important;
+	    width: 100%;
+	    display: block;
+	    word-break: break-all;
+	}
+
+	.video-footer-b {
+	    padding-left: 5px;
+	    font-size: 14px;
+	}
+
+	.video-footer {
+	    display: block;
+	    margin: auto;
+	    width: 95%;
+	    text-align: center;
+	}
+
+	.video-footer-center {
+	    display: block;
+	    text-align: center;
+	    margin: 0px 20px;
+	    font-size: 14px;
+	}
+
+	.video-footer-link {
+	    color: #000;
+	    font-size: 14px;
+	    display: inline-block;
+	    padding: 15px;
+	    font-weight: 700;
+	}
+
+	.footer-grey-txt {
+	    font-size: 13px;
+	    color: #292929;
+	    display: block;
+	    text-align: center;
+	    width: 90%;
+	    margin: 20px;
+	}
+
+	.video-rating{
+		float: none;
+	}
+
+	.video-testi-name {
+	    font-size: 16px;
+	    font-weight: 700;
+	    display: block;
+	    text-align: center;
+	    width: 100%;
+	}
+
+	.star-wrap{
+		text-align: center;
+	    width: 100%;
+	    display: block;
+	}
+
+	.footer{
+		max-width: 100%;
+	}
+
+	.milton-img {
+	    max-width: 100%;
+	    padding: 30px;
+	    margin-top: 20px;
+	}
+
+	.price-sec-nm, .price-sec-mid {
+	    background-color: #fff;
+	    margin: auto;
+	}
+
+	.col-md-4{
+		padding-right: 0px  !important;
+    	padding-left: 0px !important;
+	}
+
+	.video-testi{
+		width: 100%;
+	}
+
+	.video-testi-pro {
+	    display: block;
+	    margin: 20px auto 0px;
+	}
+
+	.footer-no-margin{
+	    margin-top: 0px;
+	}
+
+	.price-1{
+    	float: none;
+	}
+
+	.price-3{
+	    float: none;
+	}
+
+	.aff-link{
+	    display: block;
+	    width: 100px;
+	    text-align: center;
+	    margin: -50px auto 0px;
+	    font-weight: 400;
+	}
+
+	.sub-bg-txt {
+	    display: block;
+	    width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+	    text-align: center;
+	    font-size: 24px;
+        line-height: 26px;
+	    font-weight: 600;
+	    padding-bottom: 20px;
+	}
+
+	.video-sec {
+	    margin: 0px auto 30px;
+	    display: block;
+	    width: 90%;
+	}
+
+	
+}
+
+@media (max-width: 320px) {
+
+	.bottlePrice h2 {
+	    font-size: 48px;
+	}
+
+	.bottlePrice .perBottle {
+	    font-size: 16px;
+	    line-height: 18px;
+	}
+
+	.video-price-bttle {
+	    margin: 0px auto 5px;
+	}
+
+}
+
+@media (max-width: 380px) {
+
+	.video-big-red {
+	    display: block;
+	    color: #e50909;
+	    font-weight: 800;
+	    width: 100%;
+	    text-align: center;
+	    margin: 20px auto 0px;
+	    font-size: 24px;
+        line-height: 30px;
+	}
+
+	.aff-link{
+	    display: block;
+	    width: 100px;
+	    text-align: center;
+	    margin: -50px auto 0px;
+	    font-weight: 400;
+	}
+
+	.video-sec {
+	    margin: 0px auto 30px;
+	    display: block;
+	    width: 90%;
+	    max-height: 240px;
+	}
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+	.bottlePrice h2 {
+    	font-size: 36px;
+	}
+
+	.bottlePrice .perBottle {
+		font-size: 15px;
+	    line-height: 15px;
+	}
+
+	.bottlePrice {
+	    height: 35px;
+	}
+
+}

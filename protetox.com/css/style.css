@@ -1,0 +1,1066 @@
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body, p, span, input, h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home-frame{
+	margin: 60px auto 30px;
+    max-width: 90%;
+    background: #fff;
+}
+
+.no-top-margin{
+    margin: 20px auto 30px !important;
+}
+
+.home-body-bg{
+	background: #eee;
+}
+
+.proven-logo{
+	display: block;
+    margin: 30px auto 30px;
+    max-width: 350px;
+}
+
+.purple-bg{
+	background: #9a3dc9;
+    padding: 50px;
+}
+
+.home-h1{
+	display: block;
+    color: #fff;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.home-h1-highlight{
+	background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+    padding: 5px;
+    color: #fff;
+}
+
+.home-desc-1{
+	margin: auto;
+    max-width: 800px;
+    padding: 30px 10px 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.long-hr{
+	max-width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+.home-h2{
+	display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #691e85;
+    text-decoration: underline;
+}
+
+.home-two-col{
+	max-width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.thumb-row-first{
+	margin-top:50px;
+}
+
+.thumb-row-last{
+	margin-bottom:50px;
+}
+
+.org-thumb{
+	color: #ff7702;
+}
+
+.thumb-head{
+	display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 8px;
+    max-width: 90%;
+}
+
+.thumb-txt{
+	display: block;
+    margin-left: 45px;
+    font-size: 20px;
+    padding-right: 25px;
+    padding-top: 15px;
+}
+
+.thumb-point{
+	margin: 10px auto;
+    display: block;
+    max-width: 80%;
+}
+
+.home-bottom-bg{
+	background-color: #fff7dc;
+}
+
+.form-head{
+	display: block;
+    font-size: 34px;
+    font-weight: 700;
+    color: #691e85;
+    text-decoration: underline;
+    margin: 20px auto;
+}
+
+.home-form{
+	margin: 40px auto 30px;
+}
+
+.home-form-txt{
+	display: block;
+    margin: 0 auto 30px;
+    padding: 20px;
+    width: 60%;
+    border: none;
+}
+
+.home-form-submit{
+	background: #f26a2e;
+    padding: 20px;
+    width: 60%;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.alert-border {
+  border: 1px solid #808080;
+  font-size: 18px;
+}
+
+.alert-testi{
+    width: 75%;
+    margin: 30px auto;
+    padding: 10px 20px;
+}
+
+.footer{
+	display: block;
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-link{
+	font-weight: 600;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #000;
+}
+
+.prov-h1{
+	font-size: 36px;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    margin: 50px auto 50px;
+}
+
+.prov-p{
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.padding-60{
+	padding-left: 60px;
+    padding-right: 60px;
+}
+
+.prov-h2{
+	color: #3173dc;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.margin-t50{
+	margin-top:50px;
+}
+
+.margin-b50{
+	margin-bottom:50px;
+}
+
+/* --------- Upsell page ------ */
+
+.cau-msg-video{
+    background: #ff3760;
+    max-width: 80%;
+    display: block;
+    margin: 40px auto 40px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+
+.upsell-h1{
+	font-size: 30px;
+	font-weight: 700;
+	display: block;
+	text-align: center;
+	margin: 0px auto 50px;
+	max-width: 60%;
+	color: #fa1d1d;
+}
+
+.upsell-con-msg, .upsell-h2{
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.row90{
+    max-width: 90%;
+    margin: auto;
+}
+
+.upsell-red-dash{
+    border: 5px dashed #ff0000;
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.upsell-red-bottles{
+    max-width: 100%;
+}
+
+.upsell-super-green{
+    display: block;
+    text-align: center;
+    color: #90e03c;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.upsell-red-save{
+	display: block;
+	text-align: center;
+	font-size: 35px;
+	color: #fa1d1d;
+	font-weight: 700;
+}
+
+.upsell-green-msg{
+    color: #90e03c;
+}
+
+.upsell-black-save{
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    margin: 20px auto;
+}
+
+.upsell-onetime-grey-msg{
+    font-size: 28px;
+    color: #777777;
+    display: block;
+    text-align: center;
+}
+
+.upsell-upgrade-btn{
+    background-image: linear-gradient(to bottom, #fce501, #ffc300 56%, #ffb800 56%, #ff9300);
+    padding: 20px 30px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    max-width: 100%;
+    font-size: 26px;
+    border-radius: 6px;
+    border: solid 1.5px #ffb100;
+}
+
+.upsell-upgrade-btn-txt{
+    background: linear-gradient(to bottom, #023c9d, #072577 37%, #03133d);
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.upsell-upgrade-btn:hover{
+    text-decoration: none;
+}
+
+.upsell-hr{
+    display: block !important;
+    border: 1px solid #f0f0f0 !important;
+    width: 100% !important;
+}
+
+.upsell-text-upgrade{
+    font-size: 22px;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    color: #1966e2;
+    text-decoration: underline;
+}
+
+.upsell-cards-logo-1{
+    display: block;
+    margin: 0 auto 15px;
+    width: 75%;
+}
+
+.upsell-bottom-grey-1{
+    color: #6f6f6f;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.upsell-h2{
+	color: #333;
+	display: block;
+	text-align: center;
+	font-size: 34px;
+}
+
+.upsell-blue-txt{
+    color: #000000;
+    font-weight: 900;
+}
+
+.upsell-red-txt{
+    color: #fa1d1d;
+    font-weight: 700;
+}
+
+.upsell-green-box{
+    border: 3px solid #288e03;
+    padding: 50px;
+}
+
+.upsell-h3{
+    font-size: 26px;
+    font-weight: 700;
+    display: block;
+    color: #fa1d1d;
+    width: 100%;
+}
+
+.milton-img{
+    max-width: 90%;
+    padding: 30px;
+}
+
+.milton-txt{
+    margin-top: 25px;
+    display: block;
+}
+
+.upsell-btm-green{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #48810c;
+}
+
+/* --- Arrow Step --- */
+
+.upsell-arrow-sec{
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.upsell-step-img{
+    width: 100%;
+}
+
+.arrow-steps .step {
+    font-size: 14px;
+    text-align: center;
+    color: #666;
+    cursor: default;
+    margin: 0 3px;
+    padding: 10px 10px 10px 30px;
+    min-width: 180px;
+    float: left;
+    position: relative;
+    background-color: #d9e3f7;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; 
+  transition: background-color 0.2s ease;
+}
+
+.arrow-steps .step:after,
+.arrow-steps .step:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: -17px;
+    width: 0;
+    height: 0;
+    border-top: 19px solid transparent;
+    border-bottom: 17px solid transparent;
+    border-left: 17px solid #d9e3f7;    
+    z-index: 2;
+  transition: border-color 0.2s ease;
+}
+
+.arrow-steps .step:before {
+    right: auto;
+    left: 0;
+    border-left: 17px solid #fff;   
+    z-index: 0;
+}
+
+.arrow-steps .step:first-child:before {
+    border: none;
+}
+
+.arrow-steps .step:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.arrow-steps .step span {
+    position: relative;
+}
+
+.arrow-steps .step span:before {
+    opacity: 0;
+    content: "✔";
+    position: absolute;
+    top: -2px;
+    left: -20px;
+}
+
+.arrow-steps .step.done span:before {
+    opacity: 1;
+    -webkit-transition: opacity 0.3s ease 0.5s;
+    -moz-transition: opacity 0.3s ease 0.5s;
+    -ms-transition: opacity 0.3s ease 0.5s;
+    transition: opacity 0.3s ease 0.5s;
+}
+
+.arrow-steps .step.current {
+    color: #fff;
+    background-color: #23468c;
+}
+
+.arrow-steps .step.current:after {
+    border-left: 17px solid #23468c;    
+}
+
+/* ---- Downsell ------ */
+
+.downsell-purple-bg{
+    background: #9a3dc9;
+    width: 100%;
+    display: block;
+    padding: 30px;
+}
+
+.downsell-wait-txt{
+    font-size: 48px;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+
+.downsell-special{
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    color: #ffdd57;
+}
+
+.downsell-blue-h{
+    color: #3173dc;
+    display: block;
+    width: 60%;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.downsell-p{
+    display: block;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.downsell-red-h{
+    color: #ff2b2b;
+    display: block;
+    font-size: 36px;
+    margin: 30px auto;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.downsell-prov-h{
+    font-size: 26px;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+}
+
+.downsell-prov-red-small{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    color: #ff0031;
+}
+
+.downsell-prov-price{
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 20px;
+    font-weight: 700;
+    color: #767676;
+}
+
+.new-price-yellow{
+    color: #ff8900 !important;
+}
+
+.downsell-prov-shipping{
+    font-size: 24px;
+    display: block;
+    color: #8b8b8b;
+    text-align: center;
+}
+
+.downsell-upgrade-btn{
+    max-width: 80%;
+    padding: 10px 20px;
+}
+
+.downsell-upgrade-btn-txt{
+    font-size: 26px;
+}
+
+.downsell-upgrade-txt{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: #1966e2;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.downsell-big-proven-img{
+    display: block;
+    margin: auto;
+}
+
+.proven-h-lrg{
+    font-size: 34px;
+}
+
+.downsell-prov-centr-big{
+    display: block;
+    width: 100%;
+    font-size: 28px;
+}
+
+.downsell-dv-100{
+    display: block;
+    width: 100%;
+}
+
+.upgrade-btn-lrg{
+    font-size: 42px;
+}
+
+.upgrade-lrg-logo{
+    display: block;
+    margin: 30px auto 30px;
+    width: auto;
+}
+
+.downsell-hr-btm{
+    border: 1px solid #f1f1f1;
+    display: block;
+    width: 80%;
+    margin: 0px auto 40px;
+}
+
+.downsell-blue-txt-btm{
+    font-size: 14px;
+    font-weight: 600;
+    color: #3b4aff;
+    text-decoration: underline;
+    display: block;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+/* --- Video Page --- */
+
+.video-big-red{
+    display: block;
+    color: #e50909;
+    font-weight: 800;
+    width: 100%;
+    text-align: center;
+    margin: 10px auto 0px;
+    font-size: 30px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.video-sec{
+    margin: 0px auto 30px;
+    display: block;
+    width: 70%;
+}
+
+.video-sub{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.video-speaker-txt{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    margin:10px auto 30px;
+}
+
+.video-sound-b{
+    padding-left: 10px;
+}
+
+
+.price-sec-nm{
+    background-color: #fff;
+    width: 80%;
+
+}
+
+.price-sec-mid{
+    background-color: #fff;
+    margin: 0px auto;
+    width: 80%
+}
+
+.video-price-black-head{
+    display: block;
+    width: 100%;
+    background: #3e3e3e;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.video-price-bttle{
+    display: block;
+    margin: 20px auto 5px;
+    width: 90%;
+}
+
+.video-cards{
+    max-width: 70%;
+    margin: auto;
+    display: block;
+}
+
+.video-free-ship{
+    padding: 10px 0px 30px 0px;
+}
+
+.video-dsc-price{
+    padding-top: 10px;
+}
+
+.video-price-1{
+    width: 55%;
+}
+
+/* .price-sec-1{
+    margin-top: 30px;
+} */
+
+.video-price-red-head{
+    display: block;
+    width: 100%;
+    background: #e50909;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.price-2-sec{
+    padding-top:0px;
+    padding-bottom:8px;
+}
+
+.video-testi{
+    background: #fff;
+    width: 96%;
+    margin: 30px auto;
+    padding:50px 0px;
+}
+
+.video-testi-pro{
+    display: block;
+    margin: auto 0px;
+}
+
+.video-testi-head{
+    font-size: 30px;
+    color: #e50909;
+    font-weight: 700;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+}
+
+.video-testi-txt{
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+    margin: 30px 70px 30px 70px;
+    display: block;
+}
+
+.video-rating{
+    float: right;
+    margin: 0px 70px;
+}
+
+.video-testi-name{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.video-star{
+    color: #ffb100;
+}
+
+.exclamantion-icon{
+    color: #999;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.exclamantion-head{
+    display: block;
+    padding: 0px 50px 30px 70px;
+    color: #9933cc;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: -35px;
+}
+
+.exclamantion-txt{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.exclamanation-p{
+    padding: 0px 50px 0px 50px;
+    font-size: 16px;
+}
+
+.flask-head{
+    display: block;
+    padding: 0px 50px 30px 50px;
+    color: #9933cc;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.flask-txt{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.flask-center-txt{
+    text-align: center;
+}
+
+.flask-green{
+    color: #9933cc;
+    padding-right: 10px;
+}
+
+.read-sec{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.read-prefer{
+    padding-left: 10px;
+}
+
+.footer-white{
+    background: #fff;
+    margin-top: 200px;
+}
+
+.video-footer{
+    display: block;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.video-footer-link{
+    color: #000;
+    font-size: 14px;
+    display: inline-block;
+    padding: 30px;
+    font-weight: 700;
+}
+
+.video-hr{
+    border: 1px solid #e1e1e1;
+    width: 80%;
+    margin: 0px auto 0px;
+}
+
+.video-footer-center{
+    display: block;
+    text-align: center;
+}
+
+.video-footer-b{
+    padding-left: 10px;
+}
+
+.footer-grey-txt{
+    font-size: 13px;
+    color: #292929;
+    display: block;
+    text-align: center;
+    width: 80%;
+    margin: 30px auto 30px;
+}
+
+.footer-no-margin{
+    margin-top: 0px;
+}
+
+.price3{
+    padding-top: 15px;
+}
+
+.table-one{
+   -webkit-transition: all 0.5s ease-in-out; 
+    cursor: pointer;
+    transition: all 500ms ease; 
+}
+
+.table-one:hover{
+    -webkit-transform: scale(1.1);
+}
+
+.table-one.shrink {
+    width: 75%;
+    transition: all 500ms ease; 
+    opacity: 0.3;
+}
+
+.price-1{
+    float: right;
+}
+
+.price-3{
+    float: left;
+}
+
+.aff-link{
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin: -50px auto 0px;
+    font-weight: 400;
+}
+
+.sub-bg-txt{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.footer-read{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 5px auto 15px;
+    padding: 0px 20px;
+}
+
+.footer-read-txt{
+    font-weight: 700;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.red-bg-txt-down{
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #ff0031;
+    font-size: 38px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 20px auto;
+}
+
+.bttle-2-m{
+    margin-top: 5px;
+}
+
+.bttle-3-m{
+    margin-top: 19px;
+}
+
+.bttle-33-m{
+    margin-top: 5px;
+}
+
+
+.table-price-btm{
+    display: block;
+    margin: 10px auto 0px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.price-btm-bld{
+    font-weight: 700;
+    padding-left: 6px;
+}
+
+.table-price-shipping{
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.min-pad{
+    padding-bottom: 20px;
+}
+
+.bottlePrice {
+    height: 60px;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bottlePrice h2 {
+    color: #9933cc;
+    font-size: 60px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.bottlePrice .perBottle {
+    color: #9933cc;
+    font-size: 22px;
+    vertical-align: baseline;
+    display: inline-block;
+    text-align: left;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.youSave {
+    font-size: 20px;
+    font-weight: 900;
+    color: #d71920;
+    text-align: center;
+    display: block;
+}
+
+.bttlepr3{
+    margin-top: 10px;
+} 
+
+.free-ship{
+    width: 60%;
+    margin: 0px auto;
+    display: block;
+    padding-bottom: 18px;
+}
+
+.ship{
+   width: 45%; 
+}
+
+@supports not (-webkit-touch-callout: none) {
+  /* CSS for other than iOS devices */ 
+
+  .bottlePrice {
+        width: 72%;
+    }
+
+}
+.hideIfUs{
+    display: none;
+}
+.showIfUs{
+    display: none;
+}
